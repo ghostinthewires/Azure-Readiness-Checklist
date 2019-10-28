@@ -19,7 +19,7 @@ This checklist is your guide to the best practices for deploying secure, scalabl
 1. [Continuous Integration](#Continuous-Integration)
 1. [Continuous Delivery](#Continuous-Delivery)
 1. [Networking](#Networking)
-1. [Security](#Security)
+1. [Security](#Security-and-Governance)
 1. [Monitoring](#Monitoring)
 1. [Cost optimization](#Cost-optimization)
 
@@ -118,7 +118,7 @@ This checklist is your guide to the best practices for deploying secure, scalabl
 | &#9744;   | <details><summary>Configure Static IPs</summary> <p> By default, all Azure resources (e.g., VM instances, Load Balancers etc.) have dynamic IP addresses that could change over time (e.g., after a redeploy). When possible, use [Service Discovery](#Scalability-and-High-Availability) to find the IPs of services you depend on. If that's not possible, you can create static IP addresses. </p> </details> |
 | &#9744;   | <details><summary>Configure DNS using Azure DNS</summary> <p> Manage DNS entries using [Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-overview). You can buy public domain names by using a third-party domain name registrar or create custom private domain names, accessible only from within your VNet, using [Azure Private DNS](https://docs.microsoft.com/en-us/azure/dns/private-dns-overview). </p> </details> |
 
-### **Security**
+### **Security and Governance**
 
 |  |  |
 | --------- | ------- |
@@ -138,7 +138,7 @@ This checklist is your guide to the best practices for deploying secure, scalabl
 | &#9744;   | <details><summary>Create Active Directory Roles</summary> <p> Give your Active Directory Groups access to Azure resources by assigning [Roles (RBAC)](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview). </p> </details> |
 | &#9744;   | <details><summary>Create a password policy and enforce MFA</summary> <p> Set a [password policy](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/password-policy) that requires a long password for all users and require every user to enable [Multi-Factor Authentication (MFA)](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks). </p> </details> |
 | &#9744;   | <details><summary>Record audit Logs</summary> <p> Configure [audit logs](https://docs.microsoft.com/en-us/azure/security/fundamentals/log-audit) of all changes happening in your Azure subscription. I recommend [Azure Security Centre](https://docs.microsoft.com/en-us/azure/security-center/security-center-intro) to help manage this. </p> </details> |
-| &#9744;   | <details><summary>Azure Policy</summary> <p> Configure [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview) to monitor for compliance across your Azure resources and enforce different rules and effects to meet your company requirements. As well as many example policy definitions Azure provide [Azure policy initiative definitions](https://docs.microsoft.com/en-us/azure/governance/policy/overview#initiative-definition) these group policies together to monitor and enforce policies for a common goal. Policies can also be deployed using [Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview) these includes blueprints for ISO 27001 and CIS compliance.  Deploying your infrastructure and policies together using blueprints means you can deploy your solution in a way that meets your compliance needs in a trusted repeatable fashion.</p> </details> |
+| &#9744;   | <details><summary>Configure Azure Policy</summary> <p> Configure [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview) to monitor for compliance across your Azure resources and enforce different rules and effects to meet your company requirements. As well as many example policy definitions Azure provide [Azure policy initiative definitions](https://docs.microsoft.com/en-us/azure/governance/policy/overview#initiative-definition) these group policies together to monitor and enforce policies for a common goal. Policies can also be deployed using [Azure Blueprints](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview). This includes blueprint samples for [ISO 27001](https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/iso27001/) and [CIS Microsoft Azure Foundations Benchmark](https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/cis-azure-1.1.0/).  Deploying your infrastructure and policies together using blueprints means you can deploy your solution in a way that meets your compliance needs using a trusted, repeatable process.</p> </details> |
 
 ### **Monitoring**
 
