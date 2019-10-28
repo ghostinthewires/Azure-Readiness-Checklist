@@ -19,7 +19,7 @@ This checklist is your guide to the best practices for deploying secure, scalabl
 1. [Continuous Integration](#Continuous-Integration)
 1. [Continuous Delivery](#Continuous-Delivery)
 1. [Networking](#Networking)
-1. [Security](#Security-and-Governance)
+1. [Security and Governance](#Security-and-Governance)
 1. [Monitoring](#Monitoring)
 1. [Cost optimization](#Cost-optimization)
 
