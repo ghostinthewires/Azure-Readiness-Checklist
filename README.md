@@ -1,10 +1,41 @@
-# Azure Readiness Checklist
+<h1 align="center">
+<br>
+  <img src="img\logo-azure-readiness-checklist.jpg" width="170">
+  <br>
+    <br>
+  Azure Readiness Checklist
+  <br>
+</h1>
 
 ## Are you ready to go to prod on Azure? Use this checklist to find out
 
 Building production-grade infrastructure (as in, the type of infrastructure you’d bet your company on) involves a thousand little details. The vast majority of developers don’t know what those details are, so when you’re estimating a project, you usually forget about a number of critical and time-consuming details.
 
-To avoid this issue, every time you go to work on a new piece of infrastructure, go through the following checklist:
+To avoid this issue, every time you go to work on a new piece of infrastructure, go through the following checklist: https://azurechecklist.com/
+
+<p align="center">
+  <a href="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
+      <a href="https://github.com/ghostinthewires/Azure-Readiness-Checklist/">
+    <img src="https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen">
+</a>
+
+
+Below you will find a raw version of the checklist but I highly recommend using the dynamic version at https://azurechecklist.com/ which allows you to generate a report!
+
+---
+
+## Azure Readiness Checklist Badge
+
+
+If you want to show you are following the rules of the Azure Readiness Checklist, put this badge on your README file!
+
+➔ [![Azure Readiness Checklist followed](https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen)](https://github.com/ghostinthewires/Azure-Readiness-Checklist/)
+
+```md
+[![Azure Readiness Checklist followed](https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen)](https://github.com/ghostinthewires/Azure-Readiness-Checklist/)
+```
 
 ---
 
