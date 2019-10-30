@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="img\logo-azure-readiness-checklist.jpg" width="170">
+  <img src="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/logo-azure-readiness-checklist.jpg" width="170">
   <br>
     <br>
   Azure Readiness Checklist
