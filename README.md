@@ -43,6 +43,8 @@ If you want to show you are following the rules of the Azure Readiness Checklist
 
 This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in Azure. Before you go live, go through each item, and make sure you haven't missed anything important!
 
+Not every single piece of infrastructure needs every single item on the list but you should consciously and explicitly document which items you’ve implemented, which ones you’ve decided to skip, and why.
+
 1. [Server-side](#Server-side)
 1. [Client-side](#Client-side)
 1. [Data](#Data)
@@ -201,4 +203,6 @@ This checklist is your guide to the best practices for deploying secure, scalabl
 
 ---
 
-Not every single piece of infrastructure needs every single item on the list, but you should consciously and explicitly document which items you’ve implemented, which ones you’ve decided to skip, and why.
+Inspired by the Gruntwork [Production Readiness Checklist](https://gruntwork.io/devops-checklist/) which covers AWS
+
+
