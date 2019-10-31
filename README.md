@@ -7,6 +7,10 @@
   <br>
 </h1>
 
+<p align="center">
+    <img src="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/azurereadinesschecklist.gif?raw=true" width="700">
+</p>
+
 ## Are you ready to go to prod on Azure? Use this checklist to find out
 
 Building production-grade infrastructure (as in, the type of infrastructure you’d bet your company on) involves a thousand little details. The vast majority of developers don’t know what those details are, so when you’re estimating a project, you usually forget about a number of critical and time-consuming details.
