@@ -25,8 +25,29 @@ To avoid this issue, every time you go to work on a new piece of infrastructure,
     <img src="https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen">
 </a>
 
+---
 
-Below you will find a raw version of the checklist but I highly recommend using the dynamic version at https://azurechecklist.com/ which allows you to generate a report!
+## Contributing
+
+**Open an issue or a [pull request](PULL_REQUEST_TEMPLATE.md) to suggest changes or additions.**
+
+### Guide
+
+The **Azure Readiness Checklist** repository consists of two branches:
+
+#### 1. `master`
+
+This branch consists of the `README.md` file that is automatically reflected on the [Azure Readiness Checklist](https://azurechecklist.com/) website.
+
+#### 2. `develop`
+
+This branch will be used to make some significant changes to the structure, content if needed. It is preferable to use the master branch to fix small errors or add a new item.
+
+## Support
+
+If you have any question or suggestion, don't hesitate to use Twitter:
+
+* [Twitter](https://twitter.com/GhostInTheWire5)
 
 ---
 
@@ -42,6 +63,8 @@ If you want to show you are following the rules of the Azure Readiness Checklist
 ```
 
 ---
+
+Below you will find a raw version of the checklist but I highly recommend using the dynamic version at https://azurechecklist.com/ which allows you to generate a report!
 
 ## Everything you need to do before you go live
 
