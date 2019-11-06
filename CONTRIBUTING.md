@@ -16,7 +16,7 @@ Working on your first Pull Request? You can learn how from this *free* series, [
 
 ## Submitting code
 
-Any code change should be submitted as a pull request. The description should explain what the code does and give steps to execute it.
+Any code change should be submitted as a pull request. The description should explain what the code does and give steps to execute it. Please use our [Pull Request Template](PULL_REQUEST_TEMPLATE.md).
 
 ## Code review process
 
