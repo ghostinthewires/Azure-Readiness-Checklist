@@ -29,7 +29,7 @@ To avoid this issue, every time you go to work on a new piece of infrastructure,
 
 ## Contributing
 
-**Open an issue or a [pull request](PULL_REQUEST_TEMPLATE.md) to suggest changes or additions.**
+**Open an issue or a [pull request](https://github.com/ghostinthewires/Azure-Readiness-Checklist/pulls) to suggest changes or additions.**
 
 ### Guide
 
