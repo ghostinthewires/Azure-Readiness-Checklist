@@ -2,7 +2,7 @@
 
 **Fixes**: #
 
-🚨 Please review the [guidelines for contributing](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md) to this repository. 🚨 <br> <br>
+🚨 Please review the [guidelines for contributing](https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/CONTRIBUTING.md) and our [code of conduct](https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/CODE_OF_CONDUCT.md) to this repository. 🚨 <br> <br>
 **Please complete these steps and check these boxes (by putting an x inside the brackets) before filing your PR:**
 
 - [ ] Check the commit(s) message style matches our requested structure.
