@@ -5,6 +5,8 @@ title: "[BUG]"
 labels: 'i: bug, i: needs triage'
 assignees: ''
 
+---
+
 ## Bug Report
 
 **Current Behavior**
