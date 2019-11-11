@@ -19,10 +19,10 @@ To avoid this issue, every time you go to work on a new piece of infrastructure,
 
 <p align="center">
   <a href="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/CONTRIBUTING.md">
-    <img src="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
       <a href="https://github.com/ghostinthewires/Azure-Readiness-Checklist/">
-    <img src="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/Azure%20Readiness%20Checklist-Followed-brightgreen">
+    <img src="https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen">
 </a>
 
 ---
@@ -56,10 +56,10 @@ If you have any question or suggestion, don't hesitate to use Twitter:
 
 If you want to show you are following the rules of the Azure Readiness Checklist, put this badge on your README file!
 
-➔ [![Azure Readiness Checklist followed](https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/Azure%20Readiness%20Checklist-Followed-brightgreen)](https://github.com/ghostinthewires/Azure-Readiness-Checklist/)
+➔ [![Azure Readiness Checklist followed](https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen)](https://github.com/ghostinthewires/Azure-Readiness-Checklist/)
 
 ```md
-[![Azure Readiness Checklist followed](https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/Azure%20Readiness%20Checklist-Followed-brightgreen)](https://github.com/ghostinthewires/Azure-Readiness-Checklist/)
+[![Azure Readiness Checklist followed](https://img.shields.io/badge/Azure%20Readiness%20Checklist-Followed-brightgreen)](https://github.com/ghostinthewires/Azure-Readiness-Checklist/)
 ```
 
 ---
