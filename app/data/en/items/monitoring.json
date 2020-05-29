@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Track availability metrics",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/e44bc4e102f1a8b5758ad4f4c517491c.js",
+    "tags": ["all", "monitoring"]
+  },
+  {
+    "title": "Track business metrics",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/96399d2ec2d75ee4958c0e34ddc6d75e.js",
+    "tags": ["all", "monitoring"]
+  },
+  {
+    "title": "Track application metrics",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/9382fba88e05f8516774fa070471a803.js",
+    "tags": ["all", "monitoring"]
+  },
+  {
+    "title": "Track server metrics",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/c84d07f715fa34ef66899a10d3767c9b.js",
+    "tags": ["all", "monitoring"]
+  },
+  {
+    "title": "Configure services for observability",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/d1d8bae08344c476eeeb47ba9374ef86.js",
+    "tags": ["all", "monitoring"]
+  },
+  {
+    "title": "Store logs",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/1b9b09a2f844fdf443e61a31a32dc3f2.js",
+    "tags": ["all", "monitoring"]
+  },
+  {
+    "title": "Set up alerts",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/c4c2729aaf4d1aef9e1d7a7deedb77da.js",
+    "tags": ["all", "monitoring"]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Create deployment environments",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/7861eb3003f518848561fd191f4ad0f9.js",
+    "tags": ["all", "cd"]
+  },
+  {
+    "title": "Set up per-environment configuration",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/8f058ac59c18d79ccc41d01fd6c09240.js",
+    "tags": ["all", "cd"]
+  },
+  {
+    "title": "Define your infrastructure as code",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/0105a0e8d464e67905c5a7f2af82fd45.js",
+    "tags": ["all", "cd"]
+  },
+  {
+    "title": "Test your infrastructure code",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/cb28d1d9d29ca0fd825339e0b1d1e123.js",
+    "tags": ["all", "cd"]
+  },
+  {
+    "title": "Set up immutable infrastructure",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/fa791a48b9213f73278e1ffb7f1198fd.js",
+    "tags": ["all", "cd"]
+  },
+  {
+    "title": "Promote artifacts",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/59c530dac33197e7fa08fefff15e2262.js",
+    "tags": ["all", "cd"]
+  },
+  {
+    "title": "Roll back in case of failure",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/ac097ec7291bac3466ab1e7f59875339.js",
+    "tags": ["all", "cd"]
+  },
+  {
+    "title": "Publish versioned artifacts",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/af634c127bcb83c641f6ab5159df88fe.js",
+    "tags": ["all", "cd"]
+  },
+  {
+    "title": "Automate your deployments",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/aadb5bc1bc1645b1eeefd296d8b7fba8.js",
+    "tags": ["all", "cd"]
+  },
+  {
+    "title": "Use canary deployments",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/25c628c1014a52f308149b07f56a3af2.js",
+    "tags": ["all", "cd"]
+  },
+  {
+    "title": "Use feature toggles",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/bc860a63c24d30ae819749f67a2d2ce8.js",
+    "tags": ["all", "cd"]
+  }
+]

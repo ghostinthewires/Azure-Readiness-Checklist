@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Build VM images",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/8239e1dd25cd58ac6c9f3693acb9227c.js",
+    "tags": ["all", "server side", "iaas"]
+  },
+  {
+    "title": "Deploy VM images using scale sets",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/f13561c31f0b3ccc8964c1506022a54b.js",
+    "tags": ["all", "server side", "iaas", "scale set"]
+  },
+  {
+    "title": "Build Docker images",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/9344ca22817fb334f7b024f4233aeb24.js",
+    "tags": ["all", "server side", "serverless", "docker", "paas"]
+  },
+  {
+    "title": "Deploy Docker images using AKS",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/3d33c7f5c1960b878d8db75bf9ba162f.js",
+    "tags": ["all", "server side", "serverless", "docker", "kubernetes", "paas"]
+  },
+  {
+    "title": "Deploy serverless apps using Azure Functions and API Management",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/8bb6c2560ca70ae7aaed1b064f6532e5.js",
+    "tags": ["all", "server side", "serverless", "paas"]
+  },
+  {
+    "title": "Configure CPU, memory, and GC settings",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/b69118bbf5aa85f0730f860056cd7f62.js",
+    "tags": ["all", "server side", "iaas"]
+  },
+  {
+    "title": "Configure hard drives",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/9c364b13a222ec24924e7b15e1aae203.js",
+    "tags": ["all", "server side", "storage", "iaas"]
+  }
+]

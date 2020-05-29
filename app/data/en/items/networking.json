@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Set up VNets",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/0e96d3c949273372c56544a268437df5.js",
+    "tags": ["all", "networking"]
+  },
+  {
+    "title": "Set up subnets",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/5a14618cb19847d88ca53416e7a3a8d1.js",
+    "tags": ["all", "networking"]
+  },
+  {
+    "title": "Configure Network Security Groups",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/9a2063639b01a603e0102adb9dc9ce0a.js",
+    "tags": ["all", "networking", "security"]
+  },
+  {
+    "title": "Configure Static IPs",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/5e521556bde6c6d8193cad026f066626.js",
+    "tags": ["all", "networking"]
+  },
+  {
+    "title": "Configure DNS using Azure DNS",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/118c74e69ff77a3d18988861041ae13d.js",
+    "tags": ["all", "networking"]
+  }
+]

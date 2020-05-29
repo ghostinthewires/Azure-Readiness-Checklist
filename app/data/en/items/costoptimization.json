@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Pick proper VM instance types and sizes",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/4a848fbc94f0abe7a144453bdcd47ee9.js",
+    "tags": ["all", "cost"]
+  },
+  {
+    "title": "Use Low Priority VM instances for background jobs",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/35749ab27b4c91972904c08ee6fa2339.js",
+    "tags": ["all", "cost"]
+  },
+  {
+    "title": "Use Azure Reserved instances for dedicated work",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/e5f859292d841f4c97c38febfe4685f0.js",
+    "tags": ["all", "cost"]
+  },
+  {
+    "title": "Shut down VM instances when not using them",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/8813c3b964468627e93f118fe4cb0bff.js",
+    "tags": ["all", "cost"]
+  },
+  {
+    "title": "Use Scale Sets",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/86db91f09b6f6bab0143d35511d6416f.js",
+    "tags": ["all", "cost"]
+  },
+  {
+    "title": "Use Docker when possible",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/48b0f2cfef226f3a997967b9d3a01654.js",
+    "tags": ["all", "cost"]
+  },
+  {
+    "title": "Use Azure Functions when possible",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/5fcbe416a267bb6bccff8f10ad9cd1fc.js",
+    "tags": ["all", "cost"]
+  },
+  {
+    "title": "Clean up old data with Azure Blob Lifecycle Management",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/4b084b2cb4a4ab6739be8b7fc014d012.js",
+    "tags": ["all", "cost"]
+  },
+  {
+    "title": "Clean up unused resources",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/54b717dc90fa6308304c015f7665636f.js",
+    "tags": ["all", "cost"]
+  },
+  {
+    "title": "Learn to analyze your Azure bill",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/c0eb47031111b0ce7ee0789fe6566c28.js",
+    "tags": ["all", "cost"]
+  },
+  {
+    "title": "Create billing alerts",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/f712a5fee4b5bd5bd11e51968cc945d8.js",
+    "tags": ["all", "cost"]
+  }
+]

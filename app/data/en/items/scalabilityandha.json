@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Choose between a Monolith and Microservices",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/4e277021a3ad8b4396796855172c6e54.js",
+    "tags": ["all", "ha"]
+  },
+  {
+    "title": "Configure service discovery",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/7a28eeca1cff7272fee03e0d72343129.js",
+    "tags": ["all", "ha", "paas"]
+  },
+  {
+    "title": "Use multiple Instances",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/2edcb8944e725183c30a6dfaf0d0b9b0.js",
+    "tags": ["all", "ha"]
+  },
+  {
+    "title": "Use multiple Availability Zones",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/0b84605cbc5929d39b84d2cc6f662bb7.js",
+    "tags": ["all", "ha", "dr"]
+  },
+  {
+    "title": "Set up load balancing",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/3a567ee2b0c6d0ed91896d58c0b9faa3.js",
+    "tags": ["all", "ha", "dr", "paas"]
+  },
+  {
+    "title": "Use Auto Scaling",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/70ab1891cbb3451a4b2fadedb72c6c94.js",
+    "tags": ["all", "scalability", "paas"]
+  },
+  {
+    "title": "Configure Auto Recovery",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/225249983e3c3d32c86ff23093f2870d.js",
+    "tags": ["all", "dr"]
+  },
+  {
+    "title": "Configure graceful degradation",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/b2fdccedea3bc7370f31b3e5cd225235.js",
+    "tags": ["all", "dr"]
+  },
+  {
+    "title": "Perform load tests and use chaos engineering",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/c4c88e7077217d09c7e194f13f3e645b.js",
+    "tags": ["all", "dr", "performance"]
+  }
+]

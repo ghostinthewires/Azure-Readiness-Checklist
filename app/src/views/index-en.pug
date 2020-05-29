@@ -1,0 +1,64 @@
+extends base/layout
+
+//- Block main
+block main
+
+  include components/s-section-top
+
+  //- List each section (the order is linked to the order of the c-nav)
+  //- _items is in the JSON injected in the view with gulp-data (called _project.json)
+  .s-main__section.s-main__checklist
+
+    if _items !== undefined
+
+      +checklist-section({
+        dataSection: _items.serverside,
+        sectionTitle: "Server-side"
+      })
+
+      +checklist-section({
+        dataSection: _items.clientside,
+        sectionTitle: "Client-side"
+      })
+
+      +checklist-section({
+        dataSection: _items.data,
+        sectionTitle: "Data"
+      })
+
+      +checklist-section({
+        dataSection: _items.scalabilityandha,
+        sectionTitle: "Scalability-and-HA"
+      })
+
+      +checklist-section({
+        dataSection: _items.continuousintegration,
+        sectionTitle: "Continuous-Integration"
+      })
+
+      +checklist-section({
+        dataSection: _items.continuousdelivery,
+        sectionTitle: "Continuous-Delivery"
+      })
+
+      +checklist-section({
+        dataSection: _items.networking,
+        sectionTitle: "Networking"
+      })
+
+      +checklist-section({
+        dataSection: _items.securityandgovernance,
+        sectionTitle: "Security-and-Governance"
+      })
+
+      +checklist-section({
+        dataSection: _items.monitoring,
+        sectionTitle: "Monitoring"
+      })
+
+      +checklist-section({
+        dataSection: _items.costoptimization,
+        sectionTitle: "Cost-Optimization"
+      })
+
+  include components/s-section-bottom

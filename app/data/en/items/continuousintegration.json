@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Pick a Version Control System",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/574e28f0ca8a989211fde91bb6a822a0.js",
+    "tags": ["all", "ci"]
+  },
+  {
+    "title": "Do code reviews",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/e9079942b4ecb5f60486ad8cbc6bfee4.js",
+    "tags": ["all", "ci"]
+  },
+  {
+    "title": "Configure a build system",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/1cdaa0b5fb1112d7dd4ca05d79492c7d.js",
+    "tags": ["all", "ci"]
+  },
+  {
+    "title": "Use dependency management",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/d2bcb65a351b01ceda79f3b649be8b6b.js",
+    "tags": ["all", "ci"]
+  },
+  {
+    "title": "Configure static analysis",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/757fbebd96fcb528f3572680ba48410b.js",
+    "tags": ["all", "ci"]
+  },
+  {
+    "title": "Set up automatic code formatting",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/7cad474fc945328674c87296e35e4e82.js",
+    "tags": ["all", "ci"]
+  },
+  {
+    "title": "Set up automated tests",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/f3353885b93162639685c317d6412822.js",
+    "tags": ["all", "ci"]
+  },
+  {
+    "title": "Publish versioned artifacts",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/af634c127bcb83c641f6ab5159df88fe.js",
+    "tags": ["all", "ci"]
+  },
+  {
+    "title": "Set up a build server",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/2ed47f1198a4c1faa88e20947a191f52.js",
+    "tags": ["all", "ci"]
+  }
+]

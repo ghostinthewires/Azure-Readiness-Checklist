@@ -1,0 +1,43 @@
+{
+  "SITE_NAME": "The Azure Readiness Checklist",
+  "INDEX_TITLE": "✨ Your Best Azure Readiness Tool ✨",
+  "URL_WEBSITE": "https://azurechecklist.com/",
+  "SITE_TAGLINE": "🗂 Are you ready to go to prod on Azure? Use this checklist to find out!",
+  "SITE_DESCRIPTION": "🗂 Are you ready to go to prod on Azure? Use this checklist to find out! Follow the rules and deliver the best of your work in a generated report!",
+  "SITE_LANGUAGE": "en",
+  "SITE_DIRECTION": "ltr",
+  "URL_GITHUB_ROOT": "https://github.com/ghostinthewires/Azure-Readiness-Checklist",
+  "URL_GITHUB_REPO": "https://github.com/ghostinthewires/Azure-Readiness-Checklist/tree/master",
+  "HIGH_CHECKED": "✓ high priority",
+  "MEDIUM_CHECKED": "✓ medium priority",
+  "LOW_CHECKED": "✓ low priority",
+  "PERCENTAGE_CHECKED": "items are ✓",
+  "SECTION_DOCUMENTATION": "Documentation",
+  "SECTION_TOOL": "Tools",
+  "SECTION_VIDEO": "Videos",
+  "SECTION_TAG": "Filter by tags",
+  "alert": {
+    "JAVASCRIPT_DESACTIVATE": "Your JavaScript seems to be deactivated. Please enable your JavaScript to use all functionalities of the Azure Readiness Checklist."
+  },
+  "form": {
+    "LABEL_PROJECT_NAME": "Project Name",
+    "TITLE_PROJECT_NAME": "Type the name of your project",
+    "LABEL_PAGE_TITLE": "Organization Name",
+    "TITLE_PAGE_TITLE": "Type the name of your Organization",
+    "LABEL_DEVELOPER_NAME": "Individuals Name or Team Name",
+    "TITLE_DEVELOPER_NAME": "Type your name or the name of your team",
+    "LABEL_SEARCH": "Search",
+    "BUTTON_START_NEW": "New checklist",
+    "BUTTON_GENERATE_PRINT": "Generate report",
+    "BUTTON_SAVE_TO_FILE": "Download",
+    "BUTTON_LOAD_FROM_FILE": "Upload"
+  },
+  "social": {
+    "TWEET": "Tweet",
+    "TWITTER_MSG": "Check the ✨ Azure Readiness Checklist ✨ from @GhostInTheWire5 - Are you ready to go to prod on #Azure? Use this checklist to find out. Now you can use it in your daily workflow and generate reports 📑!",
+    "TWITTER_VIA": "GhostInTheWire5",
+    "TWITTER_HASHTAGS": "AzureChecklist",
+    "STAR": "Star",
+    "GITHUB_STAR_MSG": "Star ghostinthewires/Azure-Readiness-Checklist on GitHub"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pick a JavaScript framework",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/95956d0b651ee942255451fffc7b4b8a.js",
+    "tags": ["all", "client side"]
+  },
+  {
+    "title": "Pick a compile-to-JS language",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/47c19062115f1609359c1aa3a594b32c.js",
+    "tags": ["all", "client side"]
+  },
+  {
+    "title": "Pick a compile-to-CSS language",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/a6fb020c156afe3aab5c48c4d6adc874.js",
+    "tags": ["all", "client side"]
+  },
+  {
+    "title": "Optimize your assets",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/9ead848b6fa5cd257b16257d5db3efea.js",
+    "tags": ["all", "client side", "performance"]
+  },
+  {
+    "title": "Use a static content server",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/98d2ad292f5d0c274d1618184fa13e4c.js",
+    "tags": ["all", "client side", "performance"]
+  },
+  {
+    "title": "Use a CDN",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/a2e9c60e556706607ec52aba3234373b.js",
+    "tags": ["all", "client side", "performance"]
+  }
+]

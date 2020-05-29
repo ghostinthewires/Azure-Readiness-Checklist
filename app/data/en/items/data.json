@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Deploy relational databases",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/5ac0642c738a42160660500b1a0077c7.js",
+    "tags": ["all", "data", "paas"]
+  },
+  {
+    "title": "Deploy NoSQL databases",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/0c9ed9a27f51be765a6d31dd18f75d21.js",
+    "tags": ["all", "data", "paas"]
+  },
+  {
+    "title": "Deploy queues",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/68c09963d2550394bbe5bc3c653b8c35.js",
+    "tags": ["all", "data", "paas"]
+  },
+  {
+    "title": "Deploy search tools",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/05f6423014172dda081231a9b232849f.js",
+    "tags": ["all", "data", "paas"]
+  },
+  {
+    "title": "Deploy stream processing tools",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/51bfbd74b86d16a77ad5922935d90485.js",
+    "tags": ["all", "data", "paas"]
+  },
+  {
+    "title": "Deploy a data warehouse",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/56f19a15f36727ccc288377263701d2e.js",
+    "tags": ["all", "data", "paas"]
+  },
+  {
+    "title": "Deploy big data systems",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/ecb9255961a0eadb6cdfc0fa8ebe9795.js",
+    "tags": ["all", "data", "paas"]
+  },
+  {
+    "title": "Set up scheduled jobs",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/b352fd284571396a654455c9dd98ee8f.js",
+    "tags": ["all", "data", "paas"]
+  },
+  {
+    "title": "Configure disk space",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/7ed875fef29cbd2b960eaaf4688344d8.js",
+    "tags": ["all", "data", "iaas"]
+  },
+  {
+    "title": "Configure cross-subscription backup",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/f6ec6e0bd3e373752bab871b142c5257.js",
+    "tags": ["all", "data", "dr"]
+  },
+  {
+    "title": "Test your backups",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/159319cd76723b73aa1cbf227c9d4f2c.js",
+    "tags": ["all", "data", "dr"]
+  },
+  {
+    "title": "Set up schema management",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/ff8583d02083d2065c2295b082dc376d.js",
+    "tags": ["all", "data"]
+  }
+]

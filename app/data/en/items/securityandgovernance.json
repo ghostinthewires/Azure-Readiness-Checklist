@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Configure encryption in transit",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/f0e75ce4c8dbbc4dea47f255fcc57157.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Configure encryption at rest",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/b9ec948ce7fa204c49bf2e2afc4ca55b.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Deploy a Bastion Host",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/57f84ede03df1fee5059afebbec777ef.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Deploy a VPN Server",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/5c59bc4bc20eeb125ef5f741a338da67.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Set up a secrets management solution",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/547c2829a7e50bf62699680082efcaaf.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Use server hardening practices",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/400a76464a903830d72a881a9ba1ac64.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Go through the OWASP Top 10",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/c4db31284c7f7c499bb2de5cbeb160cd.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Review against the latest CIS Azure Benchmark",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/c4730a20a8e7cb4944724f4dbc011988.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Go through a security audit",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/43a2019bc90a51a47ff4e41fab76974a.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Sign up for security advisories",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/dba5c56d697c709262697608938075da.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Set up automated security tests",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/cc2a152ce0cbfc66c7790f843022f82f.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Create Active Directory Users",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/875b4d9adb0775be733163baae3e914e.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Create Active Directory Groups",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/82929fefeb25ed3c404e0698456e6beb.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Create Active Directory Roles",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/2243ea1881f9ac68fbe253c9bb0d2a51.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Create a password policy and enforce MFA",
+    "priority": "High",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/b98ecb9973f1231a0a54fc33fb92b8d9.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Record audit Logs",
+    "priority": "Medium",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/12826fe6df2c97f6597efdee0d51982a.js",
+    "tags": ["all", "security"]
+  },
+  {
+    "title": "Configure Azure Policy",
+    "priority": "Low",
+    "description": "",
+    "code": "https://gist.github.com/ghostinthewires/cfaa8e0ae9f24d9cc2f41999e0eac60a.js",
+    "tags": ["all", "security"]
+  }
+]
