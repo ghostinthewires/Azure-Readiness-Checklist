@@ -1,0 +1,32 @@
+name: Node.js CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    defaults:
+    run:
+      working-directory: ./app
+
+    strategy:
+      matrix:
+        node-version: [10.16.3]
+
+    steps:
+    - name: Checkout Repo 
+    - uses: actions/checkout@v2
+    - name: Install Dependencies
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm install
+    - name: Compile with Grunt
+      uses: elstudio/actions-js-build/build@v2
+      with:
+        wdPath: './app/gulpfile.babel.js'
