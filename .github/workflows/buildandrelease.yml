@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Azure Readiness Checklist Build & Release
 
 on:
   push:
@@ -30,8 +30,11 @@ jobs:
       
     - name: Compile with Grunt
       run: npx gulp build
+    
+    - name: Output Directory
+      run: ls
       
-    - name: copy widgets.js
+    - name: Copy widgets.js
       uses: canastro/copy-file-action@master
       with:
         source: "widgets.js"
