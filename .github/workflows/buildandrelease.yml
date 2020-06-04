@@ -31,5 +31,8 @@ jobs:
     - name: Compile with Grunt
       run: npx gulp build
     
+    - name: Copy files to dist folder
+      run: cp widgets.js dist/widgets.js && cp buttons.js dist/buttons.js
+    
     - name: Output Directory
       run: cd dist && ls
