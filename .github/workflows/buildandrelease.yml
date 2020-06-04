@@ -21,10 +21,18 @@ jobs:
     steps:
     - name: Checkout Repo 
       uses: actions/checkout@v2
+      
     - name: Install Dependencies
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install
+      
     - name: Compile with Grunt
       run: npx gulp build
+      
+    - name: copy widgets.js
+      uses: canastro/copy-file-action@master
+      with:
+        source: "widgets.js"
+        target: "dist/widgets.js"
