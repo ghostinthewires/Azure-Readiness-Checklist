@@ -32,4 +32,4 @@ jobs:
       run: npx gulp build
     
     - name: Output Directory
-      run: ls /dist
+      run: cd dist && ls
