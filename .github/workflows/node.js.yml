@@ -27,6 +27,4 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - name: Compile with Grunt
-      uses: elstudio/actions-js-build/build@v2
-      with:
-        wdPath: './app'
+      run: npx gulp build
