@@ -20,12 +20,12 @@ jobs:
 
     steps:
     - name: Checkout Repo 
-    - uses: actions/checkout@v2
+      uses: actions/checkout@v2
     - name: Install Dependencies
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm install
+      run: npm install
     - name: Compile with Grunt
       uses: elstudio/actions-js-build/build@v2
       with:
