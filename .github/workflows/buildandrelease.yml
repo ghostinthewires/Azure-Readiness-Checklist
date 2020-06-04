@@ -33,9 +33,4 @@ jobs:
     
     - name: Output Directory
       run: ls
-      
-    - name: Copy widgets.js
-      uses: canastro/copy-file-action@master
-      with:
-        source: "widgets.js"
-        target: "dist/widgets.js"
+      run: cd dist | ls
