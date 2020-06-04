@@ -29,4 +29,4 @@ jobs:
     - name: Compile with Grunt
       uses: elstudio/actions-js-build/build@v2
       with:
-        wdPath: './app/gulpfile.babel.js'
+        wdPath: './app'
