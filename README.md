@@ -5,7 +5,7 @@
     <br>
   Azure Readiness Checklist
   <br>
-</h1>
+</h1> 
 
 <p align="center">
     <img src="https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/img/azurereadinesschecklist.gif?raw=true" width="700">
